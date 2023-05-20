@@ -4,12 +4,11 @@
 
 ## Resources
 
-|-------|----------------|
 | Topic | Material       |
 |-------|----------------|
-| Basic Python | Slides   |
-| Basic Pygame Zero | Slides |
-| Sample Images | [ZIP](./resources/pgz_slides.pdf) |
-| Sample Sounds | ZIP |
-| Sample Music  | ZIP |
+| Basic Python | [Slides](./resources/basic_pyhton_slides.pdf)   |
+| Basic Pygame Zero | [Slides]((./resources/pgz_slides.pdf)) |
+| Sample Images | [ZIP](./resources/images.zip) |
+| Sample Sounds | [ZIP](./resources/sounds.zip) |
+| Sample Music  | [ZIP](./resources/music.zip) |
  
